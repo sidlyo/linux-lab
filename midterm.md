@@ -1,3 +1,4 @@
+<img width="833" height="495" alt="screenshot-1760125181433" src="https://github.com/user-attachments/assets/87ed5173-6fd2-4f8e-b0b7-e5a50b1485f3" />
 # Linux Lab Midterm Project  
 ## **Daily User Log Archiver**
 
