@@ -86,6 +86,9 @@ wsl --install Ubuntu
 * Follow the installation wizard. You can accept all default settings. It's safe to install all features (network interfaces, etc).
 * You will likely get a warning about installing device software. Click "Install" to proceed.
 
+## Output
+![](/.img/wsl.png)
+
 ## Step 2: (Optional) Install the Microsoft Visual C++ Redistributable
 
 *   This is sometimes required for VirtualBox to function correctly, especially if you see related errors.
